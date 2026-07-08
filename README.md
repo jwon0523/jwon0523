@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7adeff,100:4dff9a&height=180&text=Jaewon%20Lee&fontSize=52&fontColor=000000&desc=Backend%20Developer&descSize=18&descAlignY=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7adeff,100:4dff9a&height=180&text=Jaewon%20Lee&fontSize=52&fontColor=000000&fontAlignY=38&desc=Backend%20Developer&descSize=18&descAlignY=64.5" />
 </div>
 
 <h3 align="center">클라이언트의 구조를 이해하며 시스템을 설계하는 백엔드 개발자</h3>
