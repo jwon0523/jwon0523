@@ -46,12 +46,12 @@
 | **[Tracktory — Backend](https://github.com/Tracktory/Backend)** | 팀장. Spring 기반 BFF 아키텍처, 서비스 간 내부 인증, ERD 16개 테이블을 설계 | `Spring Boot` `JPA` `MySQL` |
 | **[Tracktory — AI](https://github.com/Tracktory/tracktory-ai)** | LangGraph 추천 파이프라인을 전체 설계·구현 (직무 매칭 → 트랙 시너지 → 학습 로드맵) | `FastAPI` `LangGraph` |
 | **[HANA](https://github.com/Hansung-AI-for-Notice-and-Assistance/HANA-Agent)** | 학사 공지 RAG 에이전트. LangGraph 8노드 그래프 코어를 단독 설계·구현 | `LangGraph` `RAG` |
-| **[AppProduct](https://github.com/UMC-PRODUCT/umc-product-iOS)** | SwiftUI 동아리 운영 앱. Clean Architecture와 상태 머신, 에러 시스템 설계를 주도 | `Swift` `SwiftUI` |
+| **[UMC APP(AppProduct)](https://github.com/UMC-PRODUCT/umc-product-iOS)** | SwiftUI 동아리 운영 앱. Clean Architecture와 상태 머신, 에러 시스템 설계를 주도 | `Swift` `SwiftUI` |
 | **BusGPS** <sub>(private)</sub> | 교내에서 실서비스 중인 스쿨버스 API 유지보수. Java 동시성으로 인한 데이터 누락 장애를 4개 원인으로 분리해 해결 | `Java` |
 
 ## Leadership
 
-- **UMC Product Team** — 공동 창립자 · 1기 부팀장 · 2기 총괄. 역할·권한 체계, QA 프로세스, 2주 스프린트 등 조직 구조 및 문화를 만들고 운영했습니다.
+- **[UMC Product Team](https://github.com/UMC-PRODUCT)** — 공동 창립자 · 1기 부팀장 · 2기 총괄. 역할·권한 체계, QA 프로세스, 2주 스프린트 등 조직 구조 및 문화를 만들고 운영했습니다.
 - **UMC iOS Central Lead (9기)** — iOS 파트 10주 커리큘럼과 데모데이 프로그램을 설계·운영하고 기술 워크북을 제작했습니다.
 
 ## Links
